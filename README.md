@@ -1,5 +1,6 @@
 # NOTUS
-https://raw.githubusercontent.com/Dayanasalazar13/NOTUS-IA/master/assets/notus banner.png
+https://github.com/Dayanasalazar13/NOTUS-IA/blob/main/notus%20banner.png
+
 ## Objetivo 
 Hacer un algoritmo que reconozca pistas musicales y devuelva la tonalidad en la que se encuentra, esto estara orientada a musicos principiantes.
 
