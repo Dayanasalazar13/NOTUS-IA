@@ -15,6 +15,6 @@ Hacer un algoritmo que reconozca pistas musicales y devuelva la tonalidad en la 
 Convolucional.
 
 ## Enlaces 
-- codigo
-- video
+- codigo https://github.com/Dayanasalazar13/NOTUS-IA/blob/main/Notus.ipynb
+- video 
 - repositorio  https://github.com/Dayanasalazar13/NOTUS-IA.git
