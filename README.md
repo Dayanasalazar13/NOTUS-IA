@@ -12,7 +12,7 @@ Hacer un algoritmo que reconozca pistas musicales y devuelva la tonalidad en la 
 
 
 ## Modelos 
-
+Convulusional
 
 ## Enlaces 
 - codigo
