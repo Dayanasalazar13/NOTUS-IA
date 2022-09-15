@@ -15,6 +15,8 @@ Hacer un algoritmo que reconozca pistas musicales y devuelva la tonalidad en la 
 
 
 ## Enlaces 
-codigo 
+codigo
+
 video
+
 repositorio  https://github.com/Dayanasalazar13/NOTUS-IA.git
