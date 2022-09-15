@@ -11,6 +11,7 @@ Hacer un algoritmo que reconozca pistas musicales y devuelva la tonalidad en la 
 ## Dataset 
 Se creo un dataset con archivos .WAV con audios de melodias en ciertas escalas musicales 
 https://drive.google.com/drive/folders/1ZWnw-9y6_hp2nWZtqP1JSniTRPPqmBSS?usp=sharing
+
 https://drive.google.com/drive/folders/1d2oijaBkZNIicmLnat2O4wWpNgrN3TGl?usp=sharing
 
 ## Modelos 
